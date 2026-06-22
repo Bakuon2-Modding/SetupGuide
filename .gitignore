@@ -1,0 +1,2 @@
+# ローカル専用の git identity（公開リポジトリにコミットしない）
+.gitconfig-private
